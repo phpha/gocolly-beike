@@ -33,6 +33,8 @@
 
 ### 代码
 
+`Golang` 及 `Gocolly` 的安装请参考：[基于Golang的网络爬虫Go-Colly](https://phpha.homike.com/archives/122)
+
 ```bash
 // 编译
 go build main.go
