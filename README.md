@@ -39,7 +39,7 @@
 // 编译
 go build main.go
 // 调用|抓取[1]北京
-go main -cityid=1
+main -cityid=1
 ```
 
 可以写个计划任务脚本
